@@ -447,3 +447,6 @@ sudo cp /etc/ufw/user.rules /path/to/backup/user.rules.backup</code></pre>
 **4. Regular Audits:** Regularly audit and update firewall rules to ensure they meet current security requirements and reflect changes in your network infrastructure.
 
 By using these advanced commands and best practices, you can enhance the security and functionality of your Linux firewall configuration.
+
+> Want to contribute? Check out [README.md](https://github.com/pratikktiwari/DevTonics/blob/main/README.md)
+
