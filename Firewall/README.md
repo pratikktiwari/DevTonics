@@ -12,6 +12,8 @@ It helps prevent unauthorized access, data breaches, and cyber attacks by filter
 
 👉 [Career in CyberSecurity](https://devtonics.in/en/security/unveiling-the-world-of-cybersecurity-a-rewarding-career-path-with-options-for-everyone)
 
+👉 [Firewall - DevTonics](https://devtonics.in/en/security/comprehensive-guide-to-firewall-rules-and-cheatsheets)
+
 ### Key Functions of a Firewall
 
 1.  **Traffic Filtering:**
