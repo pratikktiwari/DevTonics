@@ -57,9 +57,10 @@ We encourage you to get involved with the DevTonics community. Share your insigh
 We value your feedback and suggestions. If you have any questions, comments, or ideas, feel free to reach out to us through our social media channels or via our website.
 
 Thank you for being a part of DevTonics. Let's explore, learn, and grow together! 🚀
-
+<br/>
 ---
 <br/>
+
 ## Contributing to DevTonics
 
 We welcome contributions from the community! If you're interested in contributing to the DevTonics project, please follow the steps below to raise a pull request (PR).
